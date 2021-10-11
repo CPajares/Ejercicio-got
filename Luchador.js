@@ -1,4 +1,4 @@
-import Personaje from "./Personaje";
+import Personaje from "./Personaje.js";
 
 class Luchador extends Personaje {
   arma;
@@ -10,3 +10,5 @@ class Luchador extends Personaje {
     this.destreza = destreza;
   }
 }
+
+export default Luchador;

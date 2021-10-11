@@ -1,4 +1,4 @@
-import Personaje from "./Personaje";
+import Personaje from "./Personaje.js";
 
 class Rey extends Personaje {
   anos_de_reinado;
@@ -8,3 +8,5 @@ class Rey extends Personaje {
     this.anos_de_reinado = anos_de_reinado;
   }
 }
+
+export default Rey;
