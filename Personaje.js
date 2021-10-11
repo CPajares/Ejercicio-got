@@ -22,3 +22,5 @@ class Personaje {
     console.log("cambiado estado a " + this.estado);
   }
 }
+
+export default Personaje;
