@@ -10,3 +10,5 @@ class Escudero extends Personaje {
     this.sirve_a = sirve_a;
   }
 }
+
+export default Escudero;

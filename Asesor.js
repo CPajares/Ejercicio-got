@@ -8,3 +8,5 @@ class Asesor extends Personaje {
     this.asesora_a = asesora_a;
   }
 }
+
+export default Asesor;

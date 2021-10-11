@@ -10,3 +10,5 @@ class Luchador extends Personaje {
     this.destreza = destreza;
   }
 }
+
+export default Luchador;
