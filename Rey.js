@@ -5,5 +5,6 @@ class Rey extends Personaje {
   frase = "Vais a morir todos";
   constructor(nombre, familia, edad, anos_de_reinado) {
     super(nombre, familia, edad);
+    this.anos_de_reinado = anos_de_reinado;
   }
 }
